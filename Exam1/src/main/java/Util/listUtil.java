@@ -12,7 +12,6 @@ public class listUtil {
                 if(data.get(i) >data.get(j))
                 {
                     int temp = data.get(i);
-
                     data.set(i, data.get(j));
                     data.set(j,temp);
                 }

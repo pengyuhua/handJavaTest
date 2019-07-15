@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def5f285-b713-4f59-a150-d777749b1f45" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exam1/src/main/java/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam1/src/main/java/ApplicationMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/ApplicationMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            <state relative-caret-position="144">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -32,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            <state relative-caret-position="156">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="e#308#332#0" expanded="true" />
               </folding>
@@ -41,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="417">
+              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -72,10 +84,10 @@
         <option value="$PROJECT_DIR$/Exam2/README.MD" />
         <option value="$PROJECT_DIR$/Exam2/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/Exam2/src/main/java/DbUtil/DbUtil.java" />
-        <option value="$PROJECT_DIR$/Exam1/src/main/java/ApplicationMain.java" />
-        <option value="$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java" />
-        <option value="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp01.java" />
         <option value="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp02.java" />
+        <option value="$PROJECT_DIR$/Exam1/src/main/java/ApplicationMain.java" />
+        <option value="$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp01.java" />
+        <option value="$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java" />
       </list>
     </option>
   </component>
@@ -214,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563173677007</updated>
       <workItem from="1563173678276" duration="2669000" />
-      <workItem from="1563176781717" duration="7294000" />
+      <workItem from="1563176781717" duration="9603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9963000" />
+    <option name="totallyTimeSpent" value="12272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -235,7 +247,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6107692" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.78307694" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -247,7 +259,7 @@
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -337,22 +349,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/ApplicationMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        <state relative-caret-position="156">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <element signature="e#308#332#0" expanded="true" />
           </folding>
@@ -361,8 +366,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/InterfaceImp/TestImp02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="51" />
+        <state relative-caret-position="417">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam1/src/main/java/Util/listUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

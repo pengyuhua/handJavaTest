@@ -22,7 +22,7 @@ public class TestImp01 implements Test {
         //取随机数
         for (int i = 0; i < 50; i++) {
             int v_01 = (int) (1 + Math.random() * 100);
-            System.out.println(v_01);
+//            System.out.println(v_01);
             list.add(v_01);
         }
         // 处理list
@@ -42,6 +42,7 @@ public class TestImp01 implements Test {
         }
         //遍历结果
         Iterator iterator = data.entrySet().iterator();
+        System.out.println("传统方式:");
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
