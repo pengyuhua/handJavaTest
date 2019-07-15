@@ -7,6 +7,6 @@ public class ApplicationMain {
         Test test01 = TestFactory.getTest("TestImp01");
         Test test02 = TestFactory.getTest("TestImp02");
         test01.getData();
-        test02.getData();
+//        test02.getData();
     }
 }
